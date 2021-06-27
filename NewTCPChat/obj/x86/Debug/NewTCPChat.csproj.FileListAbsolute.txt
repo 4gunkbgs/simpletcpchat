@@ -1,0 +1,8 @@
+c:\users\agungb\documents\visual studio 2010\Projects\NewTCPChat\NewTCPChat\bin\Debug\NewTCPChat.exe
+c:\users\agungb\documents\visual studio 2010\Projects\NewTCPChat\NewTCPChat\bin\Debug\NewTCPChat.pdb
+c:\users\agungb\documents\visual studio 2010\Projects\NewTCPChat\NewTCPChat\obj\x86\Debug\NewTCPChat.Form1.resources
+c:\users\agungb\documents\visual studio 2010\Projects\NewTCPChat\NewTCPChat\obj\x86\Debug\NewTCPChat.Properties.Resources.resources
+c:\users\agungb\documents\visual studio 2010\Projects\NewTCPChat\NewTCPChat\obj\x86\Debug\NewTCPChat.csproj.GenerateResource.Cache
+c:\users\agungb\documents\visual studio 2010\Projects\NewTCPChat\NewTCPChat\obj\x86\Debug\NewTCPChat.exe
+c:\users\agungb\documents\visual studio 2010\Projects\NewTCPChat\NewTCPChat\obj\x86\Debug\NewTCPChat.pdb
+C:\Users\AGUNGB\documents\visual studio 2010\Projects\NewTCPChat\NewTCPChat\obj\x86\Debug\NewTCPChat.csprojResolveAssemblyReference.cache
